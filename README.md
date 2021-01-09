@@ -10,7 +10,7 @@ Okay great! It is an amazing thing to do. But how to start with competitive prog
 
 Once, you are familiar with the syntax and all, you can start with practicing problems online on several platforms like [Codechef](https://www.codechef.com/), [Codeforces](https://codeforces.com/), [Hackerearth](https://www.hackerearth.com/challenges/), [Hackerrank](https://www.hackerrank.com/), [SPOJ](https://www.spoj.com/), [A2OJ](https://a2oj.com/), [Atcoder](https://atcoder.jp/), [TopCoder](https://www.topcoder.com/). Start with the basic adhoc problems. These require just logical thinking and no complicated algorithms or data structures. 
 
-## Data Strcutures and Algorithms
+## Data Structures and Algorithms
 
 Having done a fair amount of practice with problems that require you to think logically and basic programming skills, it's time to learn about simple data structures and algorithms. 
 
@@ -38,7 +38,7 @@ Do remember to "upsolve", i.e. try to solve the problems that appeared in the co
 
 ## Competition
 
-So, we have planned a competition for you right after your midsems. The structure for the contest is that you will be given two days i.e. 48 hours for solving a set of 10 problems on a platform hosted on our IITB Gymkhana Server. These problems would be arranged in order of difficulty. The problems would be simple programming exercises with a few tougher ones for the people who are interested. 
+So, we have planned a competition for you next week. The structure for the contest is that you will be given two days i.e. 48 hours for solving a set of 10 problems on a platform hosted on our IITB Gymkhana Server. These problems would be arranged in order of difficulty. The problems would be simple programming exercises with a few tougher ones for the people who are interested. 
 
 The tentative structure would be -
 
