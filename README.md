@@ -4,7 +4,7 @@ Competitive Programming attracts one of the best minds across the world. It is a
 
 ## How to Start?
 
-Okay great! It is an amazing thing to do. But how to start with competitive programming. Firstly, learn a programming langauge (preferrably C++). Learn about the various standard libraries that the language offers and that are generally used in Competitive Programming. You can refer to [this](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/) article for more information about it. 
+Okay great! It is an amazing thing to do. But how to start with competitive programming. Firstly, learn a programming langauge (preferrably C++). Learn about the various standard libraries that the language offers and that are generally used in Competitive Programming. You can refer to [this](https://www.geeksforgeeks.org/c-plus-plus/) article for beginning with C++ and [this](https://www.geeksforgeeks.org/the-c-standard-template-library-stl/) article for learning STL.
 
 ## Hone your Problem Solving Skills
 
@@ -64,4 +64,6 @@ Specifically for the competition,
 
 The problems wil be more focussed on logic rather than algorithms and data structures. Practice basic coding via adhoc problems using the resources above. Since each problem is based on logical thinking, it is advised to read each problem because it might be the case that you can solve the toughest problem in the contest but not the easiest one. 
 
-The contest is aimed at the beginners and hence we have kept easier problems. In the follow-up competitions soon, the level of problems will increase geradually to cater to intermediate students too.
+The contest is aimed at the beginners and hence we have kept easier problems. In the follow-up competitions soon, the level of problems will increase geradually to cater to intermediate students too. 
+
+Don't forget to join us on telegram [here](https://t.me/joinchat/QqpKj1h3zk3XwoNgPpDiZA) for all further communications about the competition.
