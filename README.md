@@ -42,7 +42,7 @@ Do remember to "upsolve", i.e. try to solve the problems that appeared in the co
 
 ## Competition
 
-So, we have planned a competition for you next week. The structure for the contest is that you will be given two days i.e. 48 hours for solving a set of 10 problems on a platform hosted on our IITB Gymkhana Server. These problems would be arranged in order of difficulty. The problems would be simple programming exercises with a few tougher ones for the people who are interested. 
+So, we have planned a competition for you next week. The structure for the contest is that you will be given two days i.e. 48 hours for solving a set of 10 problems on a platform hosted on HackerRank. These problems would be arranged in order of difficulty. The problems would be simple programming exercises with a few tougher ones for the people who are interested. 
 
 The tentative structure would be -
 
@@ -55,3 +55,7 @@ The tentative structure would be -
 * 1 problem based on stack and queue data structure.
 
 * 1 relatively advanced problem based on logical thinking and application of multiple ideas in one problem.
+
+Specifically for the competition, it is important for you to understand arrays and a bit of STL. The problems wil be more focussed on logic rather than algorithms and data structures. Practice basic coding via adhoc problems using the resources above. Since each problem is based on logical thinking, it is advised to read each problem because it might be the case that you can solve the toughest problem in the contest but not the easiest one. 
+
+The contest is aimed at the beginners and hence we have kept easier problems. In the follow-up competitions soon, the level of problems will increase geradually to cater to intermediate students too.
