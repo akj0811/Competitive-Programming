@@ -8,7 +8,7 @@ Okay great! It is an amazing thing to do. But how to start with competitive prog
 
 ## Hone your Problem Solving Skills
 
-Once, you are familiar with the syntax and all, you can start with practicing problems online on several platforms like [Codechef](https://www.codechef.com/), [Codeforces](https://codeforces.com/), [Hackerearth](https://www.hackerearth.com/challenges/), [Hackerrank](https://www.hackerrank.com/), [SPOJ](https://www.spoj.com/), [A2OJ](https://a2oj.com/), [Atcoder](https://atcoder.jp/), [TopCoder](https://www.topcoder.com/). Start with the basic adhoc problems. These require just logical thinking and no complicated algorithms or data structures. 
+Once, you are familiar with the syntax and all, you can start with practicing problems online on several platforms like [Codechef](https://www.codechef.com/), [Codeforces](https://codeforces.com/), [Hackerearth](https://www.hackerearth.com/challenges/), [Hackerrank](https://www.hackerrank.com/), [SPOJ](https://www.spoj.com/), [A2OJ](https://a2oj.com/), [Atcoder](https://atcoder.jp/), [TopCoder](https://www.topcoder.com/). Start with the basic adhoc problems. These require just logical thinking and no complicated algorithms or data structures. The [CSES Problem Set](https://cses.fi/problemset/) available online and [A2OJ ladder](https://a2oj.com/) is a great way to start with practising basic problems.
 
 ## Data Structures and Algorithms
 
@@ -18,7 +18,11 @@ Having done a fair amount of practice with problems that require you to think lo
 
 * Refer to the [Edu](https://codeforces.com/edu/courses) section of codeforces for learning new data structures and algorithms. 
 
-* [Codemonk](https://www.hackerearth.com/practice/codemonk/) on Hackerearth is extremely useful for beginners to get acquainted with varioous data structures and algorithms. 
+* [Codemonk](https://www.hackerearth.com/practice/codemonk/) on Hackerearth is extremely useful for beginners to get acquainted with various data structures and algorithms. 
+
+* For diving deep into DSA, you can refer the CLRS book.
+
+* For getting into the field of Competitive Programming, refer to the book Competitive Programming 3.
 
 It must be kept in mind, that solving the problems is key to accomplishment in thsi field. Simply knowing the algorithms won't help. Unless you practice problems and try to come up with your own algorithms for solving problems, you won't see a growth in your performance
 
