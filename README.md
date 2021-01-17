@@ -56,6 +56,6 @@ The tentative structure would be -
 
 * 1 relatively advanced problem based on logical thinking and application of multiple ideas in one problem.
 
-Specifically for the competition, it is important for you to understand arrays and a bit of STL. The problems wil be more focussed on logic rather than algorithms and data structures. Practice basic coding via adhoc problems using the resources above. Since each problem is based on logical thinking, it is advised to read each problem because it might be the case that you can solve the toughest problem in the contest but not the easiest one. 
+Specifically for the competition, it is important for you to understand [arrays](https://www.geeksforgeeks.org/arrays-in-c-cpp/) and a bit of STL especially [sorting](https://www.geeksforgeeks.org/sort-c-stl/). The problems wil be more focussed on logic rather than algorithms and data structures. Practice basic coding via adhoc problems using the resources above. Since each problem is based on logical thinking, it is advised to read each problem because it might be the case that you can solve the toughest problem in the contest but not the easiest one. 
 
 The contest is aimed at the beginners and hence we have kept easier problems. In the follow-up competitions soon, the level of problems will increase geradually to cater to intermediate students too.
