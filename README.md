@@ -1,4 +1,4 @@
-# Competitive-Programming for Beginners
+# Competitive Programming for Beginners
 
 Competitive Programming attracts one of the best minds across the world. It is all about solving problems pertaining to a multitude of data structures and algorithms. Ranging from ACM-ICPC and Goolge Code Jam to several daily contests across various platforms, there are hundreds of competitions where one can participate to showcase their skills and get better at them. Refer to our [WnCC Wiki Article](https://www.wncc-iitb.org/wiki/index.php/Competitive_Programming) to get started. You can also have a look at [this](https://www.quora.com/What-is-competitive-programming-2) blog to get to know more about what competitive programming is.
 
