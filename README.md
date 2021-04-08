@@ -42,7 +42,7 @@ Do remember to "upsolve", i.e. try to solve the problems that appeared in the co
 
 ## Competition
 
-So, we have planned a competition for you next week. The structure for the contest is that you will be given two days i.e. 48 hours for solving a set of 10 problems on a platform hosted on HackerRank. These problems would be arranged in order of difficulty. The problems would be simple programming exercises with a few tougher ones for the people who are interested. 
+So, we have planned a competition for you next week. The structure for the contest is that you will be given two days i.e. 24 hours for solving a set of 10 problems on a platform hosted on HackerRank. These problems would be arranged in order of difficulty. The problems would be simple programming exercises with a few tougher ones for the people who are interested. 
 
 The tentative structure would be -
 
